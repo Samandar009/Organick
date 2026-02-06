@@ -175,8 +175,58 @@ footer {
 .f .p2 {
   margin-left: 50px;
 }
-span{
+span {
   font-size: 20px;
   color: #274c5b;
   font-weight: 700;
+}
+.c2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.c {
+  width: 1100px;
+  height: 385px;
+  border-radius: 30px;
+  padding-top: 76px;
+  padding-right: 82px;
+  padding-bottom: 76px;
+  padding-left: 82px;
+  box-shadow: 0px 14px 36px 0px #cccccc40;
+  margin-left: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: absolute;
+  margin-top: -350px;
+  background-color: #fff;
+}
+.d {
+  padding: 100px 285px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.p7 {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 20px;
+  text-align: center;
+  color: #274c5b;
+}
+.l {
+  width: 936px;
+  height: 237px;
+  border-radius: 30px;
+  padding-top: 69px;
+  padding-right: 59px;
+  padding-bottom: 69px;
+  padding-left: 59px;
+  background: #f1edea;
 }
